@@ -10,7 +10,7 @@
 ## 📦 快速开始
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/pdf-qa-system.git
+git clone https://github.com/PCZNB/pdf-qa-system
 
 # 安装后端依赖
 cd server
